@@ -1,0 +1,16 @@
+134,139d133
+<     \vh@Ifundefined{l@spanish}\else
+<       \ifnum \language=\l@spanish\relax
+<         \vh@SpanishCaptions
+<       \fi
+< 
+<     \fi
+177,184d170
+< }
+< 
+< \def \vh@SpanishCaptions{%
+<   \def\vhhistoryname{Histórico}%
+<   \def\vhversionname{Versión}%
+<   \def\vhdatename{Fecha}%
+<   \def\vhauthorname{Autor(es)}%
+<   \def\vhchangename{Modificaciones}%
